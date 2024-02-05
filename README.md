@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lydia L.
 - 👀 I’m interested in Front-End Development.
-- 🌱 I’m currently learning Front-End Programming languages (HTML, CSS, & JS) and a Front-End Framework (React).
+- 🌱 I’m currently learning Front-End Programming languages (HTML, CSS, & JS) and Front-End Frameworks (Svelte & React).
 - ⚡ Fun fact: In Alaska it is illegal to whisper in someone's ear while they're moose hunting. 
 
 <!---
